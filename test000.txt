@@ -1,0 +1,4 @@
+iconst 1
+iconst 2
+ilt
+top

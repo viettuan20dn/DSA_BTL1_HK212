@@ -1,0 +1,7 @@
+#ifndef __JAVM_CONSTANTS_H__
+#define __JAVM_CONSTANTS_H__
+
+#define OPERAND_STACK_MAX_SIZE 4 
+#define LOCAL_VARIABLE_ARRAY_SIZE 6
+
+#endif // !__JAVM_CONSTANTS_H__
